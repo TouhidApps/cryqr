@@ -16,7 +16,7 @@ CREATE TABLE `cryqrdata` (
   `exec_time` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 </pre>
-More 2 sql you can also use:
+More 2 sqls you can also use:
 <pre>
 ALTER TABLE `cryqrdata`
   ADD PRIMARY KEY (`id`);
