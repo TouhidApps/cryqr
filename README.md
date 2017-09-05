@@ -24,3 +24,8 @@ ALTER TABLE `cryqrdata`
 ALTER TABLE `cryqrdata`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=235;
 </pre>
+
+
+More Help?
+Email: touhidapps@gmail.com
+FB: http://fb.com/touhidapps
