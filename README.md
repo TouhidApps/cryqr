@@ -1,5 +1,7 @@
-# cryqr
-Cry. QR Scanner is an android app which can send data to your own server, This repository is a sample PHP code and help.
+# Cry. QR Scanner
+Cry. QR Scanner is an android app which can send data to your own server, It's able to scan qr code, bar code or any other relevent codes, This repository is a sample PHP code and help.
+
+![Cry. QR Screenshot](https://github.com/TouhidApps/cryqr/blob/master/screenshot.png)
 
 # App Link
 https://play.google.com/store/apps/details?id=com.touhidapps.cryqr
