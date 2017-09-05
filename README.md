@@ -6,7 +6,7 @@ Cry. QR Scanner is an android app which can send data to your own server, It's a
 # App Link
 https://play.google.com/store/apps/details?id=com.touhidapps.cryqr
 
-# Database table
+# Your Database table
 Table name will be 'cryqrdata'
 
 SQL to make the table:
